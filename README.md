@@ -1,7 +1,7 @@
 PRAVIDLA OTEVŘENÝCH ZDROJŮ (open-source) - od nás pro nás
 
 proč?
-- PROTOŽE "Pero je mocnější mečE" Edward Bulwer-Lytton
+- PROTOŽE "Pero je mocnější meče" Edward Bulwer-Lytton
 - protože nás dlouho ovládají pitomci
 - a víme, jak chceme žít
 
