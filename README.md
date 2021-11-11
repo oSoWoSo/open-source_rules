@@ -1,4 +1,4 @@
-OPEN SOURCE RULES - from us for us
+OPEN SOURCE RULES - from us for us - we can make own rules
 
 ![oSoWoSo](https://codeberg.org/avatars/4da60e696a206d2371e14e18c2fb15d6)
 
