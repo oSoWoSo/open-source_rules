@@ -1,14 +1,15 @@
 OPEN SOURCE RULES - from us for us - we can make own rules
 
+Simple idea: We can create our own rules!
+
 ![oSoWoSo](https://codeberg.org/avatars/4da60e696a206d2371e14e18c2fb15d6)
 
 why?
 - because "The pen is mightier than the sword"
 - bacause Words are mightier then money.
 - because We can.
-- because Only all together we can make it best.
 - because We want real democracy.
-
+- because Only all together we can make it best.
 
 basic rules can be like:
 1. Constitution cannot be violated.
