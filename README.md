@@ -16,7 +16,7 @@ basic rules can be like:
 3. Land cannot by held.
 4. Nature sources cannot by owned by comercial company or an individual.
 5. Open sources must be promoted in every aspect of human life.
-6. All sources/software/format/hardware used by governments must be open source.
+6. All software/format/hardware used by governments must be open source.
 7. No closed source software/format/hardware may be used, promoted or enforced by government.
 8. Government must fund developing of necessary open source software/format/hardware if not available.
 9. Rules are created publicly in simple readable form using choosed versioning control system (eg. git).
