@@ -12,7 +12,7 @@ why?
 - because We want real democracy.
 
 
-basic rules:
+basic rules can be like:
 1. Constitution cannot be breaked.
 2. Any kind of nature cannot be prohibited.
 3. Land cannot by held.
