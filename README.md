@@ -1,4 +1,4 @@
-OPEN SOURCE RULES - from us for us - we can make own rules
+OPEN SOURCE RULES - from us for us
 
 Simple idea: We can create our own rules!
 
