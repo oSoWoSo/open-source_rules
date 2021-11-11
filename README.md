@@ -1,7 +1,8 @@
 # OPEN SOURCE RULES - from us for us
 
 Purpose of this project is not create some rules for you, is it promote open source ideas everywhere is possible.
-Even in rule making.
+
+# Even in rule making.
 
 If I am looking at state of politics I  cannot find any nice word for it.
 
@@ -47,6 +48,8 @@ Can we stop talking about changes and start implementing it?
 with hope
 @oSoWoSo
 
-[source](https://codeberg.org/oSoWoSo/open-source_rules)
-Mirrored
+[source](https://codeberg.org/oSoWoSo/open-source_rules) codeberg.org
+
+also mirrored at
+
 https://github.com/oSoWoSo/open-source_rules
