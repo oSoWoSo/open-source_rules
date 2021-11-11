@@ -1,7 +1,5 @@
 OPEN SOURCE RULES - from us for us
 
-https://codeberg.org/oSoWoSo/open-source_rules
-
 ![oSoWoSo](https://codeberg.org/avatars/4da60e696a206d2371e14e18c2fb15d6)
 
 why?
@@ -13,25 +11,25 @@ why?
 
 
 basic rules can be like:
-1. Constitution cannot be breaked.
-2. Any kind of nature cannot be prohibited.
+1. Constitution cannot be violated.
+2. Any kind of nature cannot be banned.
 3. Land cannot by held.
-4. Nature sources cannot by held by comercial company or individual.
-5. Open sources must be promoted in every aspect of human living.
+4. Nature sources cannot by owned by comercial company or an individual.
+5. Open sources must be promoted in every aspect of human life.
 6. All sources/software/format/hardware used by governments must be open source.
-7. Any closed source software/format/hardware cannot be used, promoted or enforced by government.
-8. Government must fund developing of needed open source software/format/hardware if is not available.
-9. Rules are created in simple readable form using choosed versioning control system (for example git) and publicly.
-10. Anyone can contribute to rules.
+7. No closed source software/format/hardware may be used, promoted or enforced by government.
+8. Government must fund developing of necessary open source software/format/hardware if not available.
+9. Rules are created publicly in simple readable form using choosed versioning control system (eg. git).
+10. Anyone can contribute to the rules.
 
 
-This project is (repair me if I am wrong) first attempt to create real open source rules which can be used for taking care of our countries and our world.
+This project is (correct me if I'm wrong) the first attempt to create real open source rules that can be used to care for our countries and our world.
 
 
 
-Everybody just talking about changes, lets make it real
+Stop just talking about change, let's put it into practice
 
 Join REAL revolution!
 
 with hope
-@oSoWoSo
+https://codeberg.org/oSoWoSo
