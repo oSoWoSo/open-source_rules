@@ -1,8 +1,9 @@
 PRAVIDLA OTEVŘENÝCH ZDROJŮ (open-source) - od nás pro nás
 
 proč?
+- protože My můžeme
 - protože "Pero je mocnější meče" Edward Bulwer-Lytton
-- protože nás dlouho ovládají pitomci
+- protože nás dlouho ovládali pitomci
 - a víme, jak chceme žít
 
 základní pravidla:
