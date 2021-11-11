@@ -3,6 +3,7 @@ open source rules - from us for us
 why?
 
 Because to long we are overruled by morons
+ and We known how we want live...
 
 basic rules:
 
