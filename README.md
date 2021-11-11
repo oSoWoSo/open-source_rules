@@ -1,5 +1,12 @@
 # OPEN SOURCE RULES - from us for us
 
+Purpose of this project is not create some rules for you, is it promote open source ideas everywhere is possible.
+Even in rule making.
+
+If I am looking at state of politics I  cannot find any nice word for it.
+
+I think it's time to stop voting for people and start voting for ideas. 
+
 Simple idea:
 
 # We can create our own rules!
