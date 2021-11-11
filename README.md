@@ -1,10 +1,9 @@
 OPEN SOURCE RULES - from us for us
 
 why?
-
+- "The pen is mightier than the sword" Edward Bulwer-Lytton
 - because to long We are overruled by morons
 - and We known how We want live
-- and make it better
 
 basic rules:
 
