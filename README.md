@@ -1,6 +1,8 @@
-OPEN SOURCE RULES - from us for us
+# OPEN SOURCE RULES - from us for us
 
-Simple idea: We can create our own rules!
+Simple idea:
+
+# We can create our own rules!
 
 ![oSoWoSo](https://codeberg.org/avatars/4da60e696a206d2371e14e18c2fb15d6)
 
@@ -30,7 +32,7 @@ This project is (correct me if I'm wrong) the first attempt to create real open 
 
 Can we stop talking about changes and start implementing it?
 
-Join REAL revolution!
+# Join REAL revolution!
 
 with hope
 @oSoWoSo
