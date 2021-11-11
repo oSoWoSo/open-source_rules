@@ -32,4 +32,4 @@ Stop just talking about change, let's put it into practice
 Join REAL revolution!
 
 with hope
-https://codeberg.org/oSoWoSo
+@oSoWoSo
