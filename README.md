@@ -1,5 +1,7 @@
 OPEN SOURCE RULES - from us for us
 
+![oSoWoSo](https://codeberg.org/avatars/4da60e696a206d2371e14e18c2fb15d6)
+
 why?
 - because "The pen is mightier than the sword"
 - bacause Words are mightier then money.
@@ -27,3 +29,5 @@ This project is (repair me if I am wrong) first attempt to create real open sour
 Everybody just talking about changes, lets make it real
 
 Join REAL revolution!
+
+proudly brought by oSoWoSo
