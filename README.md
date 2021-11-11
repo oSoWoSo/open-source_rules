@@ -37,3 +37,6 @@ Can we stop talking about changes and start implementing it?
 
 with hope
 @oSoWoSo
+![source](https://codeberg.org/oSoWoSo/open-source_rules)
+Mirrored
+https://github.com/oSoWoSo/open-source_rules/blob/main/README.md
