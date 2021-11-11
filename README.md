@@ -42,4 +42,4 @@ with hope
 
 [source](https://codeberg.org/oSoWoSo/open-source_rules)
 Mirrored
-https://github.com/oSoWoSo/open-source_rules/blob/main/README.md
+https://github.com/oSoWoSo/open-source_rules
