@@ -2,9 +2,10 @@ OPEN SOURCE RULES - from us for us
 
 why?
 - because "The pen is mightier than the sword"
-- because we can
-- because only all together we can make it best
-- because we dont want democracy controlled by money
+- bacause Words are mightier then money.
+- because We can.
+- because Only all together we can make it best.
+- because We want real democracy.
 
 
 basic rules:
