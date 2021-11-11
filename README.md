@@ -53,3 +53,5 @@ with hope
 also mirrored at
 
 https://github.com/oSoWoSo/open-source_rules
+
+Licensed under the EUPL-1.2
