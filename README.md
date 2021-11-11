@@ -13,6 +13,8 @@ why?
 - because We want real freedom.
 - because Only all together we can make it best.
 
+# sample
+
 basic rules can be like:
 1. Constitution cannot be violated.
 2. Any kind of nature cannot be banned.
@@ -37,6 +39,6 @@ Can we stop talking about changes and start implementing it?
 
 with hope
 @oSoWoSo
-![source](https://codeberg.org/oSoWoSo/open-source_rules)
+[source](https://codeberg.org/oSoWoSo/open-source_rules)
 Mirrored
 https://github.com/oSoWoSo/open-source_rules/blob/main/README.md
