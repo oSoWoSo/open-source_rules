@@ -1,25 +1,25 @@
-OPEN SOURCE RULES - from us for us
+PRAVIDLA OTEVŘENÝCH ZDROJŮ (open-source) - od nás pro nás
 
-why?
-- "The pen is mightier than the sword" Edward Bulwer-Lytton
-- because to long We are overruled by morons
-- and We known how We want live
+proč?
+- PROTOŽE "Pero je mocnější mečE" Edward Bulwer-Lytton
+- protože nás dlouho ovládají pitomci
+- a víme, jak chceme žít
 
-basic rules:
+základní pravidla:
 
-1. Open-source must be promoted everywhere
-2. All software/format used by governments must be open-source
-3. Closed-source software/format cannot be enforced to public use
-4. Rules are created in as simple as posible readable form using choosed versioning control system 
-5. Anyone can contribute to rules
-6. Rules are added after most people vote for it
-7. Any rule cant break basic rules
-
-
-This project is (repair me if I am wrong) first attempt to create real open-source rules which can be used for taking care of our countries and our world.
+1. Otevřené zdroje se musí propagovat všude
+2. Veškerý software/formát používaný vládami musí být open-source
+3. Software/formát s uzavřeným zdrojovým kódem nelze vynutit k veřejnému použití
+4. Pravidla jsou vytvářena v co nejjednodušší a čitelné podobě pomocí zvoleného systému řízení verzí (např. git)
+5. Kdokoli může přispět k pravidlům
+6. Pravidla jsou přidána poté, co většina lidí hlasuje pro
+7. Žádné pravidlo nemůže porušit základní pravidla
 
 
+Tento projekt je (opravte mě, pokud se mýlím) prvním pokusem o vytvoření skutečných open-source pravidel, která lze použít pro péči o naše země a náš svět.
 
-Everybody just talking about changes, lets make it real
 
-Join REAL revolution!
+
+Všichni jen mluví o změnách, pojďme je uvést do praxe
+
+Připojte se ke SKUTEČNÉ revoluci! 
