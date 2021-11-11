@@ -19,7 +19,7 @@ basic rules can be like:
 6. All software/format/hardware used by governments must be open source.
 7. No closed source software/format/hardware may be used, promoted or enforced by government.
 8. Government must fund developing of necessary open source software/format/hardware if not available.
-9. Rules are created publicly in simple readable form using choosed versioning control system (eg. git).
+9. Rules are created publicly in simple readable form using choosed versioning control system (eg. git) and commited after voting.
 10. Anyone can contribute to the rules.
 
 
@@ -27,7 +27,7 @@ This project is (correct me if I'm wrong) the first attempt to create real open 
 
 
 
-Stop just talking about change, let's put it into practice
+Can we stop talking about changes and start implementing it?
 
 Join REAL revolution!
 
