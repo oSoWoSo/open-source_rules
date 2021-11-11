@@ -10,7 +10,7 @@ why?
 - because "The pen is mightier than the sword"
 - bacause Words are mightier then money.
 - because We can.
-- because We want real democracy.
+- because We want real freedom.
 - because Only all together we can make it best.
 
 basic rules can be like:
@@ -24,6 +24,7 @@ basic rules can be like:
 8. Government must fund developing of necessary open source software/format/hardware if not available.
 9. Rules are created publicly in simple readable form using a selected versioning control system (eg. git) and commited after voting.
 10. Anyone can contribute to the rules.
+11. No rules cannot violate individual rights.
 
 
 This project is (correct me if I'm wrong) the first attempt to create real open source rules that can be used to care for our countries and our world.
